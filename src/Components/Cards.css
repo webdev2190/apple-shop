@@ -1,0 +1,98 @@
+.card{
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 59px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    display: flex;
+}
+.ccc{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+     width: 366px;
+    height: 472px; 
+    margin-right: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.card::-webkit-scrollbar {
+    width: 6em;
+  }
+  
+
+.main{
+    margin: 34px 0 40px 59px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #000000;
+}
+.ima{
+    border-radius: 10px 10px 0px 0px;
+    width: 366px;
+    height: 307px; 
+}
+
+.prices{
+    display: flex;
+    margin: 10px 20px 0 14px;
+}
+
+.star{
+    margin-left: 4px;
+    width: 18px;
+    height: 18px;
+}
+.cutPrice{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    /* line-height: 32px; */
+    letter-spacing: 0.1px;
+    text-decoration-line: line-through;
+    color: #444444;
+    margin-left: 60px;
+    margin-top: 3px;
+}
+.Oriprice{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    margin-left: 11px;
+    margin-top: -2px;
+}
+.tit{
+    margin-left: 16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    margin-top: 12px;
+}
+.carting{
+    width: 328px;
+    height: 43px;
+    background: #23A6F0;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 18px;
+    margin-top: -9px;  
+}
